@@ -1,2 +1,24 @@
 # Dhyeya
- Dhyeya is a PyQt5-based application that includes a main window with various components like a sidebar, top bar, status bar, and tabs for different functionalities. It also has a settings page where users can configure startup behavior, including options related to showing a splash screen at startup. The application uses a ModernSplashScreen class to display a customized splash screen with a logo, app name, version, tagline, loading animation, and progress bar. The main functionality of the application involves managing settings, displaying notifications in the system tray, and providing a user-friendly interface for users to interact with.
+
+Dhyeya is a modern, feature-rich PyQt5-based desktop application designed to provide a user-friendly interface with a sleek, contemporary design. The application offers a comprehensive main window that includes a sidebar, top bar, status bar, and multiple tabs for various functionalities. Additionally, it features a customizable settings page where users can adjust application preferences, such as whether to display a splash screen on startup.
+
+## Features
+
+- **Modern UI Components:**  
+  - Sidebar, top bar, and status bar for intuitive navigation.
+  - Multiple tabs catering to different functionalities.
+
+- **Custom Splash Screen:**  
+  - Built using the `ModernSplashScreen` class.
+  - Displays a logo, app name, version, tagline, loading animation, and progress bar.
+  - Customizable to suit your branding needs.
+
+- **Settings Page:**  
+  - Configure startup behavior and other application settings.
+  - Enable/disable splash screen display on startup.
+
+- **System Tray Notifications:**  
+  - Manage and display notifications efficiently.
+
+- **Modular and Extensible Codebase:**  
+  - Easy to maintain and extend with additional features.
